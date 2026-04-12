@@ -1,0 +1,12 @@
+experiment_name,experiment_label,model_name,model_slug,gold_interval,predicted_bucket,count
+single_pass,Single-pass,qwen/qwen3.5-9b,qwen__qwen3.5-9b,closed,__MISSING__,47
+single_pass,Single-pass,qwen/qwen3.5-9b,qwen__qwen3.5-9b,closed,closed,202
+single_pass,Single-pass,qwen/qwen3.5-9b,qwen__qwen3.5-9b,closed,right_open,1
+single_pass,Single-pass,qwen/qwen3.5-9b,qwen__qwen3.5-9b,closed_duration,__MISSING__,35
+single_pass,Single-pass,qwen/qwen3.5-9b,qwen__qwen3.5-9b,closed_duration,closed_duration,214
+single_pass,Single-pass,qwen/qwen3.5-9b,qwen__qwen3.5-9b,closed_duration,right_open,1
+single_pass,Single-pass,qwen/qwen3.5-9b,qwen__qwen3.5-9b,left_open,__MISSING__,9
+single_pass,Single-pass,qwen/qwen3.5-9b,qwen__qwen3.5-9b,left_open,left_open,241
+single_pass,Single-pass,qwen/qwen3.5-9b,qwen__qwen3.5-9b,right_open,__MISSING__,10
+single_pass,Single-pass,qwen/qwen3.5-9b,qwen__qwen3.5-9b,right_open,left_open,1
+single_pass,Single-pass,qwen/qwen3.5-9b,qwen__qwen3.5-9b,right_open,right_open,239

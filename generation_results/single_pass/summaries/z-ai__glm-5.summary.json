@@ -1,0 +1,28 @@
+﻿{
+  "model_name": "z-ai/glm-5",
+  "model_slug": "z-ai__glm-5",
+  "input_csv": "data/TimeTankSample.csv",
+  "annotation_csv": "outputs_full_reasoning\\annotations\\z-ai__glm-5.csv",
+  "log_file": "outputs_full_reasoning\\logs\\z-ai__glm-5.jsonl",
+  "messages_dir": "outputs_full_reasoning\\messages\\z-ai__glm-5",
+  "total_input_rows": 1000,
+  "successful_rows": 1000,
+  "failed_rows": 0,
+  "total_output_rows": 1227,
+  "usage_requests": 1000,
+  "usage_tool_calls": 0,
+  "usage_input_tokens": 1892548,
+  "usage_output_tokens": 488647,
+  "usage_total_tokens": 2381195,
+  "usage_details": {
+    "is_byok": 0,
+    "audio_tokens": 0,
+    "reasoning_tokens": 468138,
+    "image_tokens": 0
+  },
+  "reasoning_effort": "high",
+  "temperature": 1.0,
+  "started_at_unix": 1774989518.3438444,
+  "last_processed_row_index": 1000,
+  "finished_at_unix": 1775003397.005854
+}

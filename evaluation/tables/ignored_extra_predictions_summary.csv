@@ -1,0 +1,7 @@
+experiment_name,experiment_label,model_name,model_slug,ignored_extra_predictions_total,extra_span_not_in_gold,unknown_sentence_predictions
+single_pass,Single-pass,minimax/minimax-m2.7,minimax__minimax-m2.7,266,266,0
+single_pass,Single-pass,qwen/qwen3.5-9b,qwen__qwen3.5-9b,302,302,0
+single_pass,Single-pass,z-ai/glm-5,z-ai__glm-5,286,286,0
+multi_pass,Multi-pass,minimax/minimax-m2.7,minimax__minimax-m2.7,251,251,0
+multi_pass,Multi-pass,qwen/qwen3.5-9b,qwen__qwen3.5-9b,285,285,0
+multi_pass,Multi-pass,z-ai/glm-5,z-ai__glm-5,272,272,0

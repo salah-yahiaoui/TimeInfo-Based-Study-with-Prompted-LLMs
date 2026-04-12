@@ -1,0 +1,5 @@
+experiment_name,experiment_label,model_name,model_slug,label,support,predicted_count,tp,fp,fn,precision,recall,f1
+single_pass,Single-pass,minimax/minimax-m2.7,minimax__minimax-m2.7,closed,250,213,212,1,38,0.9953051643192489,0.848,0.9157667386609072
+single_pass,Single-pass,minimax/minimax-m2.7,minimax__minimax-m2.7,closed_duration,250,214,214,0,36,1.0,0.856,0.9224137931034483
+single_pass,Single-pass,minimax/minimax-m2.7,minimax__minimax-m2.7,left_open,250,238,237,1,13,0.9957983193277311,0.948,0.9713114754098361
+single_pass,Single-pass,minimax/minimax-m2.7,minimax__minimax-m2.7,right_open,250,232,231,1,19,0.9956896551724138,0.924,0.9585062240663901

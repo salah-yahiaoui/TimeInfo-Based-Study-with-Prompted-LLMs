@@ -1,0 +1,5 @@
+experiment_name,experiment_label,model_name,model_slug,label,support,predicted_count,tp,fp,fn,precision,recall,f1
+multi_pass,Multi-pass,qwen/qwen3.5-9b,qwen__qwen3.5-9b,closed,250,196,196,0,54,1.0,0.784,0.8789237668161435
+multi_pass,Multi-pass,qwen/qwen3.5-9b,qwen__qwen3.5-9b,closed_duration,250,204,204,0,46,1.0,0.816,0.8986784140969163
+multi_pass,Multi-pass,qwen/qwen3.5-9b,qwen__qwen3.5-9b,left_open,250,233,231,2,19,0.9914163090128756,0.924,0.9565217391304348
+multi_pass,Multi-pass,qwen/qwen3.5-9b,qwen__qwen3.5-9b,right_open,250,231,230,1,20,0.9956709956709957,0.92,0.9563409563409563

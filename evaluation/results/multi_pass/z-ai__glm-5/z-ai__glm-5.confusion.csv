@@ -1,0 +1,10 @@
+experiment_name,experiment_label,model_name,model_slug,gold_interval,predicted_bucket,count
+multi_pass,Multi-pass,z-ai/glm-5,z-ai__glm-5,closed,__MISSING__,28
+multi_pass,Multi-pass,z-ai/glm-5,z-ai__glm-5,closed,closed,222
+multi_pass,Multi-pass,z-ai/glm-5,z-ai__glm-5,closed_duration,__MISSING__,34
+multi_pass,Multi-pass,z-ai/glm-5,z-ai__glm-5,closed_duration,closed_duration,216
+multi_pass,Multi-pass,z-ai/glm-5,z-ai__glm-5,left_open,__MISSING__,8
+multi_pass,Multi-pass,z-ai/glm-5,z-ai__glm-5,left_open,left_open,242
+multi_pass,Multi-pass,z-ai/glm-5,z-ai__glm-5,right_open,__MISSING__,9
+multi_pass,Multi-pass,z-ai/glm-5,z-ai__glm-5,right_open,left_open,1
+multi_pass,Multi-pass,z-ai/glm-5,z-ai__glm-5,right_open,right_open,240

@@ -1,0 +1,5 @@
+experiment_name,experiment_label,model_name,model_slug,label,support,predicted_count,tp,fp,fn,precision,recall,f1
+multi_pass,Multi-pass,z-ai/glm-5,z-ai__glm-5,closed,250,222,222,0,28,1.0,0.888,0.940677966101695
+multi_pass,Multi-pass,z-ai/glm-5,z-ai__glm-5,closed_duration,250,216,216,0,34,1.0,0.864,0.9270386266094421
+multi_pass,Multi-pass,z-ai/glm-5,z-ai__glm-5,left_open,250,243,242,1,8,0.9958847736625515,0.968,0.9817444219066936
+multi_pass,Multi-pass,z-ai/glm-5,z-ai__glm-5,right_open,250,240,240,0,10,1.0,0.96,0.9795918367346939
