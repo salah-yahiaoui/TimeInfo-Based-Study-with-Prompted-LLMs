@@ -1,6 +1,6 @@
 # TimeTank Temporal Annotation Experiment
 
-This repository contains a minimal, cleaned version of the TimeTank temporal annotation experiment.
+This repository contains  the TimeTank temporal annotation experiment.
 
 It includes:
 
@@ -11,7 +11,6 @@ It includes:
 - one retained evaluation package
   - the gold-restricted precision/recall/F1 evaluation
 
-It intentionally excludes the earlier recall-only evaluation and intermediate probe runs.
 
 ## Repository Contents
 
@@ -30,7 +29,7 @@ It intentionally excludes the earlier recall-only evaluation and intermediate pr
 - `generation_results/multi_pass/`
   - bundled final outputs of the multi-pass experiment
 - `evaluation/`
-  - retained evaluation package, including scripts, result tables, detailed outputs, and figures
+  - evaluation , including scripts, result tables and ailed outputs
 
 ## Experimental Setup
 
@@ -58,9 +57,7 @@ Core implementation files:
 - `timetank_annotation/multi_pass_prompts.py`
 - `scripts/run_multi_pass_annotation.py`
 
-## Retained Evaluation
-
-This repository keeps only the second evaluation protocol, located in `evaluation/`.
+## Evaluation
 
 This evaluation computes:
 
@@ -168,7 +165,7 @@ This command:
 
 - rebuilds the gold-restricted evaluation tables
 - rebuilds the detailed result files
-- regenerates the figures
+
 
 ## Included Results
 
@@ -182,6 +179,5 @@ So you can inspect the results immediately without rerunning generation.
 
 ## Notes
 
-- multi-pass output filenames still contain the historical `_ReAct` suffix in some bundled result files
 - this is kept for compatibility with the original experiment outputs
 - the evaluation scripts work with those files as bundled in this repository

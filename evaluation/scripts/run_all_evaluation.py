@@ -15,7 +15,7 @@ def run_script(script_name: str) -> None:
 
 def main() -> None:
     run_script("run_gold_restricted_evaluation.py")
-    run_script("generate_evaluation_figures.py")
+    
 
 
 if __name__ == "__main__":
